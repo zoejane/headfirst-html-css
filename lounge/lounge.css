@@ -1,0 +1,27 @@
+/* this rule 
+select all the things 
+from body*/
+body{
+	font-family: Verdana, Geneva, Arial, sans-serif;
+}
+h1,h2{
+    color: gray;
+}
+
+h1{
+    border-bottom: 1px solid black;
+}
+
+p{
+	color: maroon;
+}
+.greentea{
+	color:green;
+}
+.raspberry{
+	color:blue;
+}
+.blueberry{
+	color:purple;
+}
+
